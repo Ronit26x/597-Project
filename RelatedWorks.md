@@ -40,7 +40,7 @@ This document lists the papers related to software supply chain attacks that are
 
 ---
 
-## 4. Third Party Dependency Paper
+## 4. The Hitchhiker’s Guide to Malicious Third-Party Dependencies
 
 - **Link:** [arXiv PDF](https://arxiv.org/pdf/2307.09087)
 - **Description:**
